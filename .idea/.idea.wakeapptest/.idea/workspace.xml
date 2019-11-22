@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8cc791-47c2-438c-83ee-64e0dc48aba5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/BotFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/BaseBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EntitiesCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/SimpleBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/BaseGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/BehaviourController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/DecalController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpawnerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/BaseEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.1.6/PostProcessing/Runtime/Effects/AmbientOcclusion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Models/IMoveOutput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/SimpleAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Models/ITargetFinderOutput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AILogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Models/IAttackOutput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Input/PlayerInputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/DualWeaponController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5406A456-CF73-4443-B3D0-2A7D123287F1/4c/b7d875f9/IDisposable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/BaseWeaponController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/Broadcaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/SingletonComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Input/IInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AIInputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entities/EntityData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TargetMarkView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BotMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IHealth.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TargetFindController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/AttackData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/MoveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/TargetData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/BaseEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/IAttackData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/ITargetFinderData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/IMoveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/MoveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/SimpleMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/BehaviourController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/SingletonGameObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/DistantWeaponController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/WeaponCotroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/BaseWeaponController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/SimpleWeaponCotroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Input/PlayerInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/BaseGameObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/SimpleBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/DecalController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IDamageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/BaseBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/DualWeaponController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TargetMarkView.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KillsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EntitiesCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/SingletonComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Models/IAttackOutput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Models/IMoveOutput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Models/ITargetFinderOutput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abstract/Logic/IMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/Damage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/SimpleAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/BotFinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/EntityData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/Broadcaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BotMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/AIInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerFinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/AILogic.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TpL5N1cTE7ZzuKxhsIy6TD5N85" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8cc791-47c2-438c-83ee-64e0dc48aba5" name="Default Changelist" comment="" />
+      <created>1574151908043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574151908043</updated>
+      <workItem from="1574151916112" duration="55475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
